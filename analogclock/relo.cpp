@@ -85,7 +85,7 @@ DWORD WINAPI CRelo::ThreadFunc(LPVOID lpParam)
 	hrx = cos(rad);
 	hry = sin(rad);
 
-	dwDelay = 1;
+	dwDelay = 40;
 	loop = true;
 	while (loop)
 	{
