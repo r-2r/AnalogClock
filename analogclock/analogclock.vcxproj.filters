@@ -27,12 +27,18 @@
     <ClInclude Include="analogclock.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="relo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="analogclock.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="relo.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
